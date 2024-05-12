@@ -4,7 +4,7 @@
 
 [PuLID](https://github.com/ToTheBeginning/PuLID) ComfyUI native implementation.
 
-![basic workflow](examples/pulid_wf.jpg)
+![basic workflow](examples/base.png)
 
 
 ## The 'method' parameter
