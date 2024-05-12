@@ -6,6 +6,7 @@
 
 ![basic workflow](examples/base.png)
 
+> [discord](https://discord.gg/cXs9vZSqeK)
 
 ## The 'method' parameter
 
